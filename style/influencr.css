@@ -1,0 +1,119 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* header */
+.title{
+    /* width:243; */
+    font-size:24px;
+    color:600px;
+}
+.nav-link{
+    text-decoration:none;
+    /* font-weight:500; */
+}
+.nav-item{
+   list-style:none; 
+   margin-right:30px;
+   color:rgba(58, 58, 58, 1);
+}
+.display-flex{
+    display:flex;
+}
+.text-gray{
+    color:rgba(58, 58, 58, 1);
+}
+.navbar{
+    justify-content:space-between;
+    text-align:center;
+    max-width:1440px;
+    margin:0 auto;
+}
+.{
+    max-width:1440px;
+    margin:0 auto;
+}
+.start{
+    font-weight:600;
+    font-size:40px;
+    color:rgba(58, 58, 58, 1);
+}
+.paragraph{
+    font-size:15px;
+    font-weight:400px;
+    color:rgba(58, 58, 58, 1);
+
+}
+.btn-primary{
+    background-color:rgba(224, 44, 109, 1);
+    width:196px;
+}
+.picture{
+    display:grid;
+    background-image:url(../images/Circle\ design.svg);
+    background-repeat: repeat(1,1fr);
+    margin: left 50px;
+}
+.logo{
+    margin:40px;
+    gap:30px;
+    padding:20px;
+}
+.section2{
+    display:flex;
+}
+/* Main */
+.container1{
+    background-color:white;
+}
+.popular{
+    font-size:28px;
+    fonot
+    color:#3A3A3A;
+    display:flex;
+    justify-content:center;
+    text-align:center;
+}
+.tripod{
+    border:2px solid rgb(201, 187, 187) ;
+    width:800px;
+    margin:40px;
+    padding:10px;
+
+}
+.dark1{
+    font-size:28px;
+    color:rgba(24, 25, 31, 1);
+
+}
+.wordwide{
+   font-size:14px;
+   
+
+}
+/* footer */
+.copyright{
+    background-color:rgba(10, 8, 38, 1);
+    justify-content:center;
+    text-align:center;
+}
+.dark-3{
+    font-size:24px;
+    color:#FFFFFF;
+}
+.dark-4{
+    color:#D9DBE1;
+    font-size:14px;
+
+}
+.icons{
+    gap:40px;
+    justify-content:center;
+    text-align:center;
+    align-items:center;
+}
